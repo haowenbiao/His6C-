@@ -1,0 +1,16 @@
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\FarPointSpreadPageSet.xml
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\ClassLibraryFarPointSpreadPageSet.pdb
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.Properties.Resources.resources
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.pdb
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\TrueOrFalseSelectorControl.dll
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\TrueOrFalseSelectorControl.pdb
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.FormFarPointSpreadPageSet.resources
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.PrintHeaderSelector.resources
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\PaperSizeSelector.dll
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\PaperSizeSelector.pdb
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.PaperMarginSetor.resources
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\bin\Debug\ClassLibraryFarPointSpreadPageSet.dll
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.dll.licenses
+E:\HWB\Program\His6C#\PublicDLL\FarPointSpread页面设置\ClassLibraryFarPointSpreadPageSet\obj\Debug\ClassLibraryFarPointSpreadPageSet.dll

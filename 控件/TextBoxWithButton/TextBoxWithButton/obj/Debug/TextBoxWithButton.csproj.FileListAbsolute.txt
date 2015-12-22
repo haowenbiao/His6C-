@@ -1,0 +1,8 @@
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\bin\Debug\TextBoxWithButton.dll
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\bin\Debug\TextBoxWithButton.pdb
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\TextBoxWithButton.TextBoxWithButton.resources
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\TextBoxWithButton.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\TextBoxWithButton.dll
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\TextBoxWithButton.pdb
+E:\HWB\Program\His6C#\控件\TextBoxWithButton\TextBoxWithButton\obj\Debug\CustomTextBox.FormAdvanced.resources

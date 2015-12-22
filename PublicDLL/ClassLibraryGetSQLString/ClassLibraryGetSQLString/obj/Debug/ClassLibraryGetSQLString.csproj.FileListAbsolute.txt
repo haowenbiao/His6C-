@@ -1,0 +1,5 @@
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Debug\ClassLibraryGetSQLString.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Debug\ClassLibraryGetSQLString.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\obj\Debug\ClassLibraryGetSQLString.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\obj\Debug\ClassLibraryGetSQLString.pdb

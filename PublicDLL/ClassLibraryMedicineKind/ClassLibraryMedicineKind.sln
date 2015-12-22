@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryMedicineKind", "ClassLibraryMedicineKind\ClassLibraryMedicineKind.csproj", "{9BDD7C04-80A3-44B0-8FF7-D517BC425A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDD7C04-80A3-44B0-8FF7-D517BC425A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDD7C04-80A3-44B0-8FF7-D517BC425A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDD7C04-80A3-44B0-8FF7-D517BC425A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDD7C04-80A3-44B0-8FF7-D517BC425A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

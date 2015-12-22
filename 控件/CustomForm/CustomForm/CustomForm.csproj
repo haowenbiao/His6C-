@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{713D51E9-C352-4727-B047-0A7BCAD2D128}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CustomForm</RootNamespace>
+    <AssemblyName>CustomForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryAbstractDataInformation">
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAbstractDataInformation\bin\Release\ClassLibraryAbstractDataInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryDataTableFromQueryString, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\SagaDataTableFromQueryString\bin\Release\ClassLibraryDataTableFromQueryString.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryEventArgs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Release\ClassLibraryEventArgs.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryGetSQLString, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Release\ClassLibraryGetSQLString.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryLoginInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Release\ClassLibraryLoginInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryPYM">
+      <HintPath>..\..\ClassLibraryPYM\bin\Release\ClassLibraryPYM.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryXmlizedAttribute">
+      <HintPath>..\..\..\PublicDLL\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Release\ClassLibraryXmlizedAttribute.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCustomAuthoritied.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomAuthoritied.Designer.cs">
+      <DependentUpon>FormCustomAuthoritied.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomAutoSized.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomAutoSized.Designer.cs">
+      <DependentUpon>FormCustomAutoSized.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomBase.Designer.cs">
+      <DependentUpon>FormCustomBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomDataLoaded.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomDataLoaded.Designer.cs">
+      <DependentUpon>FormCustomDataLoaded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomDataLoaded_Design.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomDataLoaded_Design.Designer.cs">
+      <DependentUpon>FormCustomDataLoaded_Design.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomHelped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomHelped.Designer.cs">
+      <DependentUpon>FormCustomHelped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomListItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomListItemAdd.Designer.cs">
+      <DependentUpon>FormCustomListItemAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomListItemAdd_Design.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomListItemAdd_Design.Designer.cs">
+      <DependentUpon>FormCustomListItemAdd_Design.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomSaved.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomSaved.Designer.cs">
+      <DependentUpon>FormCustomSaved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormCustomAuthoritied.resx">
+      <DependentUpon>FormCustomAuthoritied.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomAutoSized.resx">
+      <DependentUpon>FormCustomAutoSized.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomBase.resx">
+      <DependentUpon>FormCustomBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomDataLoaded.resx">
+      <DependentUpon>FormCustomDataLoaded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomDataLoaded_Design.resx">
+      <DependentUpon>FormCustomDataLoaded_Design.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomHelped.resx">
+      <DependentUpon>FormCustomHelped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomListItemAdd.resx">
+      <DependentUpon>FormCustomListItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomListItemAdd_Design.resx">
+      <DependentUpon>FormCustomListItemAdd_Design.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomSaved.resx">
+      <DependentUpon>FormCustomSaved.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

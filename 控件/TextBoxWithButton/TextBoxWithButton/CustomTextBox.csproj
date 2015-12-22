@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EF48FFB7-F395-43F9-A2EB-699E0CB17A59}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CustomTextBox</RootNamespace>
+    <AssemblyName>TextBoxWithButton</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComboBoxWithControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxWithControl.Designer.cs">
+      <DependentUpon>ComboBoxWithControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxWithControlDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxWithControlDataGridView.designer.cs">
+      <DependentUpon>ComboBoxWithControlDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxWithDateGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxWithDateGridView.Designer.cs">
+      <DependentUpon>ComboBoxWithDateGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxWithListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxWithListBox.Designer.cs">
+      <DependentUpon>ComboBoxWithListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurrencyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CurrencyTextBox.Designer.cs">
+      <DependentUpon>CurrencyTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimeTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DateTimeTextBox.Designer.cs">
+      <DependentUpon>DateTimeTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoubleTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DoubleTextBox.Designer.cs">
+      <DependentUpon>DoubleTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdvanced.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdvanced.Designer.cs">
+      <DependentUpon>FormAdvanced.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWithDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWithDataGridView.designer.cs">
+      <DependentUpon>FormWithDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NextWhenEnterTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NextWhenEnterTextBox.Designer.cs">
+      <DependentUpon>NextWhenEnterTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotEmptyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NotEmptyTextBox.Designer.cs">
+      <DependentUpon>NotEmptyTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumberTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumberTextBox.Designer.cs">
+      <DependentUpon>NumberTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegexTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RegexTextBox.Designer.cs">
+      <DependentUpon>RegexTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxWithButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBoxWithButton.Designer.cs">
+      <DependentUpon>TextBoxWithButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBoxWithListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBoxWithListBox.Designer.cs">
+      <DependentUpon>TextBoxWithListBox.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ComboBoxWithControl.resx">
+      <DependentUpon>ComboBoxWithControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxWithControlDataGridView.resx">
+      <DependentUpon>ComboBoxWithControlDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxWithDateGridView.resx">
+      <DependentUpon>ComboBoxWithDateGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxWithListBox.resx">
+      <DependentUpon>ComboBoxWithListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CurrencyTextBox.resx">
+      <DependentUpon>CurrencyTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimeTextBox.resx">
+      <DependentUpon>DateTimeTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoubleTextBox.resx">
+      <DependentUpon>DoubleTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdvanced.resx">
+      <DependentUpon>FormAdvanced.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWithDataGridView.resx">
+      <DependentUpon>FormWithDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NextWhenEnterTextBox.resx">
+      <DependentUpon>NextWhenEnterTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotEmptyTextBox.resx">
+      <DependentUpon>NotEmptyTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumberTextBox.resx">
+      <DependentUpon>NumberTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegexTextBox.resx">
+      <DependentUpon>RegexTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxWithButton.resx">
+      <DependentUpon>TextBoxWithButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxWithListBox.resx">
+      <DependentUpon>TextBoxWithListBox.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

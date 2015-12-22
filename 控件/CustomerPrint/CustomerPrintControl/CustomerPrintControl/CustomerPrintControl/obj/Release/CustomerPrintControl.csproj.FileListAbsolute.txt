@@ -1,0 +1,9 @@
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\bin\Release\CustomerPrintControl.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\bin\Release\CustomerPrintControl.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\bin\Release\CustomerPrintClassLibrary.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\bin\Release\CustomerPrintClassLibrary.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\obj\Release\ResolveAssemblyReference.cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\obj\Release\CustomerPrintControl.CustomerPrintControl.resources
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\obj\Release\CustomerPrintControl.csproj.GenerateResource.Cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\obj\Release\CustomerPrintControl.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintControl\CustomerPrintControl\CustomerPrintControl\obj\Release\CustomerPrintControl.pdb

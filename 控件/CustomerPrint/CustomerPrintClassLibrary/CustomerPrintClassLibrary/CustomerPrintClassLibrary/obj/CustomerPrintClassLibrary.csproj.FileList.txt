@@ -1,0 +1,6 @@
+bin\Release\CustomerPrintClassLibrary.dll
+bin\Release\CustomerPrintClassLibrary.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\bin\Release\CustomerPrintClassLibrary.tlb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CustomerPrintClassLibrary.dll
+obj\Release\CustomerPrintClassLibrary.pdb

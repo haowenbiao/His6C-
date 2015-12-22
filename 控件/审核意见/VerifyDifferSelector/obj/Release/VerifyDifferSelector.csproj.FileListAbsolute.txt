@@ -1,0 +1,8 @@
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\VerifyDifferSelector.dll
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\VerifyDifferSelector.pdb
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\ClassLibraryDataTableFromQueryString.dll
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\ClassLibraryGetSQLString.dll
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\ClassLibraryDataTableFromQueryString.pdb
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\bin\Release\ClassLibraryGetSQLString.pdb
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\obj\Release\VerifyDifferSelector.dll
+F:\HWB\Program\his6C#\控件\审核意见\VerifyDifferSelector\obj\Release\VerifyDifferSelector.pdb

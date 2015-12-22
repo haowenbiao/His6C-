@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD8E5500-D81F-4E8B-901A-0003801B9A0C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DepartmentInformation</RootNamespace>
+    <AssemblyName>DepartmentInformation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryAbstractDataInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAbstractDataInformation\bin\Release\ClassLibraryAbstractDataInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryAbstractFormDataListBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\ClassLibraryCustomFormDataListBase\ClassLibraryCustomFormDataListBase\bin\Release\ClassLibraryAbstractFormDataListBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryDepartmentInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Release\ClassLibraryDepartmentInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryEventArgs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Release\ClassLibraryEventArgs.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryGetSQLString, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Release\ClassLibraryGetSQLString.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryLoginInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Release\ClassLibraryLoginInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryXmlizedAttribute, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Release\ClassLibraryXmlizedAttribute.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\CustomForm\CustomForm\bin\Release\CustomForm.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextBoxWithButton, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\TextBoxWithButton\TextBoxWithButton\bin\Release\TextBoxWithButton.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataList\FormDataListUseFpSpreadBaseFromAbstract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormDataListUseFpSpreadBaseFromAbstract.Designer.cs">
+      <DependentUpon>FormDataListUseFpSpreadBaseFromAbstract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationAdd.designer.cs">
+      <DependentUpon>FormDepartmentInformationAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationBase.Designer.cs">
+      <DependentUpon>FormDepartmentInformationBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataList\DeparmentInformations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\DeparmentInformations.Designer.cs">
+      <DependentUpon>DeparmentInformations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormDepartmentInformationEdit.designer.cs">
+      <DependentUpon>FormDepartmentInformationEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DataOperate\FormDepartmentInformationAdd.resx">
+      <DependentUpon>FormDepartmentInformationAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormDepartmentInformationBase.resx">
+      <DependentUpon>FormDepartmentInformationBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataList\DeparmentInformations.resx">
+      <DependentUpon>DeparmentInformations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormDepartmentInformationEdit.resx">
+      <DependentUpon>FormDepartmentInformationEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SagaDepartmentType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

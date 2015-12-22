@@ -1,0 +1,4 @@
+E:\HWB\Program\His6C#\控件\CustomFarPointInput\CustomFarPointInput\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\控件\CustomFarPointInput\CustomFarPointInput\obj\Debug\CustomFarPointInput.MyFpInteger.resources
+E:\HWB\Program\His6C#\控件\CustomFarPointInput\CustomFarPointInput\obj\Debug\CustomFarPointInput.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\控件\CustomFarPointInput\CustomFarPointInput\obj\Debug\CustomFarPointInput.dll.licenses

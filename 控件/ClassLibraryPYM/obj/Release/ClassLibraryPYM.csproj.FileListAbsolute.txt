@@ -1,0 +1,6 @@
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\bin\Release\HZPY.MDB
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\bin\Release\ClassLibraryPYM.dll.config
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\bin\Release\ClassLibraryPYM.dll
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\bin\Release\ClassLibraryPYM.pdb
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\obj\Release\ClassLibraryPYM.dll
+F:\HWB\Program\his6C#\控件\ClassLibraryPYM\obj\Release\ClassLibraryPYM.pdb

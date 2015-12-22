@@ -1,0 +1,4 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Release\ClassLibraryLoginInformation.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Release\ClassLibraryLoginInformation.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\obj\Release\ClassLibraryLoginInformation.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\obj\Release\ClassLibraryLoginInformation.pdb

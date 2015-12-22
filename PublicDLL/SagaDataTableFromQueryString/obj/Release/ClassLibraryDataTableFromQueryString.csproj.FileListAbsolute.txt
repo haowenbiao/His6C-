@@ -1,0 +1,4 @@
+F:\HWB\Program\his6C#\PublicDLL\SagaDataTableFromQueryString\bin\Release\ClassLibraryDataTableFromQueryString.dll
+F:\HWB\Program\his6C#\PublicDLL\SagaDataTableFromQueryString\bin\Release\ClassLibraryDataTableFromQueryString.pdb
+F:\HWB\Program\his6C#\PublicDLL\SagaDataTableFromQueryString\obj\Release\ClassLibraryDataTableFromQueryString.dll
+F:\HWB\Program\his6C#\PublicDLL\SagaDataTableFromQueryString\obj\Release\ClassLibraryDataTableFromQueryString.pdb

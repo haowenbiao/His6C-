@@ -1,0 +1,5 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Release\ClassLibraryEventArgs.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Release\ClassLibraryEventArgs.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\obj\Release\ClassLibraryEventArgs.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\obj\Release\ClassLibraryEventArgs.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\obj\Release\ClassLibraryEventArgs.csprojResolveAssemblyReference.cache

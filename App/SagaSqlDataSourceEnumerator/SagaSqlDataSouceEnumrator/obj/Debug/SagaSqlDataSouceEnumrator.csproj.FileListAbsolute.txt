@@ -1,0 +1,10 @@
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\bin\Debug\SagaSqlDataSouceEnumrator.pdb
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.Search.resources
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.Properties.Resources.resources
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.Waiter.resources
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.pdb
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\bin\Debug\SagaSqlDataSouceEnumrator.dll
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\obj\Debug\SagaSqlDataSouceEnumrator.dll
+E:\HWB\Program\His6C#\App\SagaSqlDataSourceEnumerator\SagaSqlDataSouceEnumrator\bin\Debug\SagaSqlDataSouceEnumrator.dll.config

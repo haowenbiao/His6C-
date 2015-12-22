@@ -1,0 +1,5 @@
+E:\HWB\Program\His6C#\PublicDLL\SagaDataTableFromQueryString\bin\Debug\SagaDataTableFromQueryString.dll
+E:\HWB\Program\His6C#\PublicDLL\SagaDataTableFromQueryString\bin\Debug\SagaDataTableFromQueryString.pdb
+E:\HWB\Program\His6C#\PublicDLL\SagaDataTableFromQueryString\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\SagaDataTableFromQueryString\obj\Debug\SagaDataTableFromQueryString.dll
+E:\HWB\Program\His6C#\PublicDLL\SagaDataTableFromQueryString\obj\Debug\SagaDataTableFromQueryString.pdb

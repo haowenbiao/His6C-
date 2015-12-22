@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <LocalInformation>
+    <CommunicateInformation>
+      <ComputerName>lenovo-4</ComputerName>
+      <ComputerIP>192.168.1.88</ComputerIP>
+      <CommunicatePort>8888</CommunicatePort>
+      <StreamBufferSize>256</StreamBufferSize>
+    </CommunicateInformation>
+  </LocalInformation>
+  <ServerInformation>
+    <CommunicateInformation>
+      <ComputerName>winxp</ComputerName>
+      <ComputerIP>192.168.1.188</ComputerIP>
+      <CommunicatePort>8888</CommunicatePort>
+      <StreamBufferSize>256</StreamBufferSize>
+    </CommunicateInformation>
+    <ServerConnectInformation>
+      <ServerName>WINXP</ServerName>
+      <Instance>SQLEXPRESS</Instance>
+      <DataBase>his6</DataBase>
+      <ServerPort>1433</ServerPort>
+      <UserID>sa</UserID>
+      <Password>hwbhwb</Password>
+    </ServerConnectInformation>
+  </ServerInformation>
+</Configuration>

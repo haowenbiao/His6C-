@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC3CAE62-DBA7-494A-89D0-AE452F5FD025}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MedicineProduceCompany</RootNamespace>
+    <AssemblyName>MedicineProduceCompany</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryAbstractDataInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAbstractDataInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryAbstractFormDataListBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\ClassLibraryCustomFormDataListBase\ClassLibraryCustomFormDataListBase\bin\Debug\ClassLibraryAbstractFormDataListBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryEventArgs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Debug\ClassLibraryEventArgs.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryFormSaveBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\ClassLibraryFormSaveBase\ClassLibraryFormSaveBase\bin\Debug\ClassLibraryFormSaveBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryGetSQLString, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Debug\ClassLibraryGetSQLString.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryLoginInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Debug\ClassLibraryLoginInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryMedicineProduceCompany, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryMedicineProduceCompany\ClassLibraryMedicineProduceCompany\bin\Debug\ClassLibraryMedicineProduceCompany.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\CustomForm\CustomForm\bin\Debug\CustomForm.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="TextBoxWithButton, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\TextBoxWithButton\TextBoxWithButton\bin\Debug\TextBoxWithButton.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataList\FormDataListUseFpSpreadBaseFromAbstract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormDataListUseFpSpreadBaseFromAbstract.Designer.cs">
+      <DependentUpon>FormDataListUseFpSpreadBaseFromAbstract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataList\FormMedicineProduceCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormMedicineProduceCompanies.Designer.cs">
+      <DependentUpon>FormMedicineProduceCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyAdd.Designer.cs">
+      <DependentUpon>FormMedicineProduceCompanyAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyBase.Designer.cs">
+      <DependentUpon>FormMedicineProduceCompanyBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormMedicineProduceCompanyEdit.Designer.cs">
+      <DependentUpon>FormMedicineProduceCompanyEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DataList\FormMedicineProduceCompanies.resx">
+      <DependentUpon>FormMedicineProduceCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormMedicineProduceCompanyAdd.resx">
+      <DependentUpon>FormMedicineProduceCompanyAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormMedicineProduceCompanyBase.resx">
+      <DependentUpon>FormMedicineProduceCompanyBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormMedicineProduceCompanyEdit.resx">
+      <DependentUpon>FormMedicineProduceCompanyEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\ClassLibraryMedicineProduceCompany.ClassCompanyProperties.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

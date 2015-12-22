@@ -1,0 +1,17 @@
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryDepartmentInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryDepartmentInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryAbstractDataInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryEventArgs.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryGetSQLString.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibrarySQLExcute.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryAbstractDataInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryGetSQLString.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibrarySQLExcute.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryEventArgs.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\obj\Debug\ClassLibraryDepartmentInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\obj\Debug\ClassLibraryDepartmentInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryAuthoritySet.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryAuthoritySet.pdb
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryLoginInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\部门信息\ClassLibraryDepartmentInformation\bin\Debug\ClassLibraryLoginInformation.pdb

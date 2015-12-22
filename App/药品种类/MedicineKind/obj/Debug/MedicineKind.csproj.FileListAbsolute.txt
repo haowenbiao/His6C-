@@ -1,0 +1,14 @@
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\MedicineKind.exe
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\MedicineKind.pdb
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\CustomForm.dll
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\TextBoxWithButton.dll
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\CustomForm.pdb
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\bin\Debug\TextBoxWithButton.pdb
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.FormMedicineKind.resources
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.Properties.Resources.resources
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.exe
+E:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.pdb
+F:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.exe
+F:\HWB\Program\His6C#\App\药品种类\MedicineKind\obj\Debug\MedicineKind.pdb

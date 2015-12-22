@@ -1,0 +1,14 @@
+<Configuration>
+  <LocalInformation>
+    <DataListColunmsShowInformation>
+      <CostItems>
+        <NotShowColumn>
+        </NotShowColumn>
+      </CostItems>
+      <CostItemAdjustPrice>
+        <NotShowColumn>
+        </NotShowColumn>
+      </CostItemAdjustPrice>
+    </DataListColunmsShowInformation>
+  </LocalInformation>
+</Configuration>

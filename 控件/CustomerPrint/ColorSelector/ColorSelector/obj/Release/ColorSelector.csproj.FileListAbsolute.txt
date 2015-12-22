@@ -1,0 +1,9 @@
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\bin\Release\ColorSelector.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\bin\Release\ColorSelector.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\bin\Release\TrackBarWithTextBox.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\bin\Release\TrackBarWithTextBox.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\obj\Release\ResolveAssemblyReference.cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\obj\Release\ColorSelector.colorSelector.resources
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\obj\Release\ColorSelector.csproj.GenerateResource.Cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\obj\Release\ColorSelector.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\ColorSelector\ColorSelector\obj\Release\ColorSelector.pdb

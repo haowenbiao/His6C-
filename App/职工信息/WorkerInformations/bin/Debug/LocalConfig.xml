@@ -1,0 +1,14 @@
+<Configuration>
+  <LocalInformation>
+    <DataListColunmsShowInformation>
+      <WokerInformations>
+        <NotShowColumn>
+        </NotShowColumn>
+      </WokerInformations>
+      <DepartmentReassignment>
+        <NotShowColumn>
+        </NotShowColumn>
+      </DepartmentReassignment>
+    </DataListColunmsShowInformation>
+  </LocalInformation>
+</Configuration>

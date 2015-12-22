@@ -1,0 +1,9 @@
+bin\Release\CustomerPrintControl.dll
+bin\Release\CustomerPrintControl.pdb
+bin\Release\CustomerPrintClassLibrary.dll
+bin\Release\CustomerPrintClassLibrary.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CustomerPrintControl.CustomerPrintControl.resources
+obj\Release\CustomerPrintControl.csproj.GenerateResource.Cache
+obj\Release\CustomerPrintControl.dll
+obj\Release\CustomerPrintControl.pdb

@@ -1,0 +1,11 @@
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Debug\TestTextBoxWithButton.exe
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Debug\TestTextBoxWithButton.pdb
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Debug\TextBoxWithButton.dll
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Debug\TextBoxWithButton.pdb
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\ResolveAssemblyReference.cache
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\TestTextBoxWithButton.Form1.resources
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\TestTextBoxWithButton.Properties.Resources.resources
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\TestTextBoxWithButton.exe
+G:\His6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Debug\TestTextBoxWithButton.pdb

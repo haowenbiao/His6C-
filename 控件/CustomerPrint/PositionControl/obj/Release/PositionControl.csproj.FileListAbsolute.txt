@@ -1,0 +1,7 @@
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\bin\Release\PositionControl.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\bin\Release\PositionControl.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\obj\Release\ResolveAssemblyReference.cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\obj\Release\PositionControl.positionControl.resources
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\obj\Release\PositionControl.csproj.GenerateResource.Cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\obj\Release\PositionControl.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\PositionControl\obj\Release\PositionControl.pdb

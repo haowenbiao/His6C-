@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerSelectorControl", "WorkerSelectorControl\WorkerSelectorControl.csproj", "{5FA5502A-D9BC-427E-8B93-B40D728886C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWorkerSelectorControl", "TestWorkerSelectorControl\TestWorkerSelectorControl.csproj", "{02109617-0836-4451-84D1-5B47469422EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA5502A-D9BC-427E-8B93-B40D728886C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA5502A-D9BC-427E-8B93-B40D728886C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA5502A-D9BC-427E-8B93-B40D728886C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA5502A-D9BC-427E-8B93-B40D728886C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02109617-0836-4451-84D1-5B47469422EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02109617-0836-4451-84D1-5B47469422EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02109617-0836-4451-84D1-5B47469422EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02109617-0836-4451-84D1-5B47469422EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

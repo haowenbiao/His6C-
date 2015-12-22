@@ -1,0 +1,10 @@
+<Configuration>
+  <LocalInformation>
+    <DataListColunmsShowInformation>
+      <MedicineStoreHouseInformation>
+        <NotShowColumn>
+        </NotShowColumn>
+      </MedicineStoreHouseInformation>
+    </DataListColunmsShowInformation>
+  </LocalInformation>
+</Configuration>

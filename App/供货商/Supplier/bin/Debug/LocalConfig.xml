@@ -1,0 +1,10 @@
+<Configuration>
+  <LocalInformation>
+    <DataListColunmsShowInformation>
+      <Supplier>
+        <NotShowColumn>
+        </NotShowColumn>
+      </Supplier>
+    </DataListColunmsShowInformation>
+  </LocalInformation>
+</Configuration>

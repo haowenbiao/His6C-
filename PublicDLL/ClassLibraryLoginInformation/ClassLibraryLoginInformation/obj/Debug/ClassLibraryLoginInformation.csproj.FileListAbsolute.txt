@@ -1,0 +1,5 @@
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Debug\ClassLibraryLoginInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Debug\ClassLibraryLoginInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\obj\Debug\ClassLibraryLoginInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\obj\Debug\ClassLibraryLoginInformation.pdb

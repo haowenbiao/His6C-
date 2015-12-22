@@ -1,0 +1,12 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryAuthoritySet.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryAuthoritySet.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryEventArgs.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryGetSQLString.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryLoginInformation.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibrarySQLExcute.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryEventArgs.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryGetSQLString.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryLoginInformation.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibrarySQLExcute.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\obj\Release\ClassLibraryAuthoritySet.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\obj\Release\ClassLibraryAuthoritySet.pdb

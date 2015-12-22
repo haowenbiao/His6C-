@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostItemUnit", "CostItemUnit\CostItemUnit.csproj", "{EBAE31E9-58EF-45A1-9F82-69A55056EAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAE31E9-58EF-45A1-9F82-69A55056EAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAE31E9-58EF-45A1-9F82-69A55056EAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAE31E9-58EF-45A1-9F82-69A55056EAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAE31E9-58EF-45A1-9F82-69A55056EAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

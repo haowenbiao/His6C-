@@ -1,0 +1,12 @@
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ClassLibraryPublicEnum.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ClassLibraryPublicEnum.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.dll.config
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.dll.config
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.dll
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\bin\Debug\ClassLibraryPublicEnum.pdb
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ResolveAssemblyReference.cache
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ClassLibraryPublicEnum.dll
+J:\His6C#\PublicDLL\ClassLibraryPublicEnum\obj\Debug\ClassLibraryPublicEnum.pdb

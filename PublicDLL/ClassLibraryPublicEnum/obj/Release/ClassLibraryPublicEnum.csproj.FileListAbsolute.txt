@@ -1,0 +1,4 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryPublicEnum\bin\Release\ClassLibraryPublicEnum.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryPublicEnum\bin\Release\ClassLibraryPublicEnum.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryPublicEnum\obj\Release\ClassLibraryPublicEnum.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryPublicEnum\obj\Release\ClassLibraryPublicEnum.pdb

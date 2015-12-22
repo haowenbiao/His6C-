@@ -1,0 +1,10 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibrarySQLExcute.dll.config
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibrarySQLExcute.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibrarySQLExcute.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibraryEventArgs.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibraryLoginInformation.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibraryEventArgs.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibraryLoginInformation.pdb
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\obj\Release\ClassLibrarySQLExecute.csprojResolveAssemblyReference.cache
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\obj\Release\ClassLibrarySQLExcute.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibrarySQLExcute\obj\Release\ClassLibrarySQLExcute.pdb

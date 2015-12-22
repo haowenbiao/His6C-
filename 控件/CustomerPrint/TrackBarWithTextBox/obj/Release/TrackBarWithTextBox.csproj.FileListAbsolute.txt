@@ -1,0 +1,7 @@
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\bin\Release\TrackBarWithTextBox.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\bin\Release\TrackBarWithTextBox.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\obj\Release\ResolveAssemblyReference.cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\obj\Release\TrackBarWithTextBox.trackBarWithTextBox.resources
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\obj\Release\TrackBarWithTextBox.csproj.GenerateResource.Cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\obj\Release\TrackBarWithTextBox.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\TrackBarWithTextBox\obj\Release\TrackBarWithTextBox.pdb

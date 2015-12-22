@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryFarPointSpreadPageSet", "ClassLibraryFarPointSpreadPageSet\ClassLibraryFarPointSpreadPageSet.csproj", "{C8C06184-2FC8-4DA3-8496-59426F721D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperSizeSelector", "..\..\控件\PaperSizeSelector\PaperSizeSelector.csproj", "{A69586FE-DDCB-4A2E-A574-75A06DA4EAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C06184-2FC8-4DA3-8496-59426F721D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C06184-2FC8-4DA3-8496-59426F721D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C06184-2FC8-4DA3-8496-59426F721D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C06184-2FC8-4DA3-8496-59426F721D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69586FE-DDCB-4A2E-A574-75A06DA4EAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69586FE-DDCB-4A2E-A574-75A06DA4EAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69586FE-DDCB-4A2E-A574-75A06DA4EAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69586FE-DDCB-4A2E-A574-75A06DA4EAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

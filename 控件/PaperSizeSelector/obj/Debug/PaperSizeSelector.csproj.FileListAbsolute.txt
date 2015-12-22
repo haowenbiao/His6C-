@@ -1,0 +1,10 @@
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\bin\Debug\PaperSizeSelector.dll
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\bin\Debug\PaperSizeSelector.pdb
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\PaperSizeSelector.PaperSizeSelector.resources
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\PaperSizeSelector.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\PaperSizeSelector.dll
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\PaperSizeSelector.pdb
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\bin\Debug\TextBoxWithButton.dll
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\bin\Debug\TextBoxWithButton.pdb
+E:\HWB\Program\His6C#\控件\PaperSizeSelector\obj\Debug\PaperSizeSelector.dll.licenses

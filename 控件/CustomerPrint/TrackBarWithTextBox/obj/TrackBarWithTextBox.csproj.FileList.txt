@@ -1,0 +1,7 @@
+bin\Release\TrackBarWithTextBox.dll
+bin\Release\TrackBarWithTextBox.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TrackBarWithTextBox.trackBarWithTextBox.resources
+obj\Release\TrackBarWithTextBox.csproj.GenerateResource.Cache
+obj\Release\TrackBarWithTextBox.dll
+obj\Release\TrackBarWithTextBox.pdb

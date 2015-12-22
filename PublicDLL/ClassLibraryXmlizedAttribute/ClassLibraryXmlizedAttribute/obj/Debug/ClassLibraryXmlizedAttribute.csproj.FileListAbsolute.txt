@@ -1,0 +1,6 @@
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Debug\ClassLibraryXmlizedAttribute.dll
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Debug\ClassLibraryXmlizedAttribute.pdb
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\obj\Debug\ResolveAssemblyReference.cache
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\obj\Debug\ClassLibraryXmlizedAttribute.dll
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\obj\Debug\ClassLibraryXmlizedAttribute.pdb
+F:\HWB\Program\His6C#\Test\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Debug\ClassLibraryXmlizedAttribute.dll.config

@@ -1,0 +1,2 @@
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Release\ClassLibraryXmlizedAttribute.dll
+F:\HWB\Program\his6C#\PublicDLL\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\obj\Release\ClassLibraryXmlizedAttribute.dll

@@ -1,0 +1,7 @@
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\bin\Debug\ClientConfig.xml
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\bin\Debug\SagaConfiguration.dll
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\bin\Debug\SagaConfiguration.pdb
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\obj\Debug\SagaConfiguration.dll
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\obj\Debug\SagaConfiguration.pdb
+E:\HWB\Program\His6C#\App\SagaConfiguration\SagaClientConfig\bin\Debug\SagaConfiguration.dll.config

@@ -1,0 +1,7 @@
+bin\Release\TrueOrFalseSelectorControl.dll
+bin\Release\TrueOrFalseSelectorControl.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TrueOrFalseSelectorControl.trueOrFalseSelectorControl.resources
+obj\Release\TrueOrFalseSelectorControl.csproj.GenerateResource.Cache
+obj\Release\TrueOrFalseSelectorControl.dll
+obj\Release\TrueOrFalseSelectorControl.pdb

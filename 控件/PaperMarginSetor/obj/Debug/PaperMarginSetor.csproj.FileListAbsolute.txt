@@ -1,0 +1,8 @@
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\bin\Debug\PaperMarginSetor.dll
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\bin\Debug\PaperMarginSetor.pdb
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\PaperMarginSetor.csproj.GenerateResource.Cache
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\PaperMarginSetor.dll.licenses
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\PaperMarginSetor.dll
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\PaperMarginSetor.pdb
+E:\HWB\Program\His6C#\控件\PaperMarginSetor\obj\Debug\PaperMarginSetor.PaperMarginSetor.resources

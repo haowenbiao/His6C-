@@ -1,0 +1,7 @@
+bin\Release\PositionControl.dll
+bin\Release\PositionControl.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PositionControl.positionControl.resources
+obj\Release\PositionControl.csproj.GenerateResource.Cache
+obj\Release\PositionControl.dll
+obj\Release\PositionControl.pdb

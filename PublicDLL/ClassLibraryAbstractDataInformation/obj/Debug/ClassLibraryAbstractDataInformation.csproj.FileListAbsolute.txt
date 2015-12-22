@@ -1,0 +1,16 @@
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAbstractDataInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAbstractDataInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibrarySQLExcute.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibrarySQLExcute.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\obj\Debug\ClassLibraryAbstractDataInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\obj\Debug\ClassLibraryAbstractDataInformation.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAbstractDataInformation.dll.config
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryEventArgs.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryEventArgs.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAuthoritySet.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryGetSQLString.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryGetSQLString.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryAuthoritySet.pdb
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryLoginInformation.dll
+E:\HWB\Program\His6C#\PublicDLL\ClassLibraryAbstractDataInformation\bin\Debug\ClassLibraryLoginInformation.pdb

@@ -1,0 +1,9 @@
+<Configuration>
+  <LocalInformation>
+    <DataListColunmsShowInformation>
+      <MedicineKinds>
+        <NotShowColumn />
+      </MedicineKinds>
+    </DataListColunmsShowInformation>
+  </LocalInformation>
+</Configuration>

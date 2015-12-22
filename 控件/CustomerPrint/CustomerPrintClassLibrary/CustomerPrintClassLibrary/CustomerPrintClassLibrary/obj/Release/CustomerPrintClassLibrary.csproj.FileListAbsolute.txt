@@ -1,0 +1,6 @@
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\bin\Release\CustomerPrintClassLibrary.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\bin\Release\CustomerPrintClassLibrary.pdb
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\bin\Release\CustomerPrintClassLibrary.tlb
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\obj\Release\CustomerPrintClassLibrary.dll
+D:\HWB\Program\His6C#\控件\CustomerPrint\CustomerPrintClassLibrary\CustomerPrintClassLibrary\CustomerPrintClassLibrary\obj\Release\CustomerPrintClassLibrary.pdb

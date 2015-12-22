@@ -1,0 +1,14 @@
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Release\ResolveAssemblyReference.cache
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Release\TrueOrFalseSelectorControl.trueOrFalseSelectorControl.resources
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Release\TrueOrFalseSelectorControl.csproj.GenerateResource.Cache
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\bin\Release\TrueOrFalseSelectorControl.dll
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\bin\Release\TrueOrFalseSelectorControl.pdb
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Release\TrueOrFalseSelectorControl.dll
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Release\TrueOrFalseSelectorControl.pdb
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\bin\Debug\TrueOrFalseSelectorControl.dll
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\bin\Debug\TrueOrFalseSelectorControl.pdb
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Debug\ResolveAssemblyReference.cache
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Debug\TrueOrFalseSelectorControl.trueOrFalseSelectorControl.resources
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Debug\TrueOrFalseSelectorControl.csproj.GenerateResource.Cache
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Debug\TrueOrFalseSelectorControl.dll
+F:\Hwb\program\His6C#\控件\CustomerPrint\TrueOrFalseSelectorControl\obj\Debug\TrueOrFalseSelectorControl.pdb

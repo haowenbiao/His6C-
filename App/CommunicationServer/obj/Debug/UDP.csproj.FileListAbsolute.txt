@@ -1,0 +1,9 @@
+E:\VSC#2005学习资料\范例代码\UDP\UDP\bin\Debug\UDP.exe.config
+E:\VSC#2005学习资料\范例代码\UDP\UDP\bin\Debug\UDP.exe
+E:\VSC#2005学习资料\范例代码\UDP\UDP\bin\Debug\UDP.pdb
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\ResolveAssemblyReference.cache
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\UDP.Form1.resources
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.Cache
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\UDP.exe
+E:\VSC#2005学习资料\范例代码\UDP\UDP\obj\Debug\UDP.pdb

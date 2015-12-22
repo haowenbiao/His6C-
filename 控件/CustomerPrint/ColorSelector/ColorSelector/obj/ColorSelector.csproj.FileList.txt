@@ -1,0 +1,9 @@
+bin\Release\ColorSelector.dll
+bin\Release\ColorSelector.pdb
+bin\Release\TrackBarWithTextBox.dll
+bin\Release\TrackBarWithTextBox.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ColorSelector.colorSelector.resources
+obj\Release\ColorSelector.csproj.GenerateResource.Cache
+obj\Release\ColorSelector.dll
+obj\Release\ColorSelector.pdb

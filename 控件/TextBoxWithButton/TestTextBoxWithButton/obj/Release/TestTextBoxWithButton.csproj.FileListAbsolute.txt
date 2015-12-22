@@ -1,0 +1,11 @@
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Release\TestTextBoxWithButton.exe
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Release\TestTextBoxWithButton.pdb
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Release\TextBoxWithButton.dll
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\bin\Release\TextBoxWithButton.pdb
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\ResolveAssemblyReference.cache
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\TestTextBoxWithButton.Form1.resources
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\TestTextBoxWithButton.Properties.Resources.resources
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\GenerateResource-ResGen.write.1.tlog
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\TestTextBoxWithButton.exe
+F:\HWB\Program\his6C#\控件\TextBoxWithButton\TestTextBoxWithButton\obj\Release\TestTextBoxWithButton.pdb

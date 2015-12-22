@@ -1,0 +1,9 @@
+E:\VSC#2005学习资料\范例代码\UDP\Client\bin\Release\Client.exe.config
+E:\VSC#2005学习资料\范例代码\UDP\Client\bin\Release\Client.exe
+E:\VSC#2005学习资料\范例代码\UDP\Client\bin\Release\Client.pdb
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\ResolveAssemblyReference.cache
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\Client.Form1.resources
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\Client.Properties.Resources.resources
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\Client.csproj.GenerateResource.Cache
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\Client.exe
+E:\VSC#2005学习资料\范例代码\UDP\Client\obj\Release\Client.pdb

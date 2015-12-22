@@ -1,0 +1,14 @@
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\bin\Debug\HZPY.MDB
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.dll
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.pdb
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\obj\Debug\ResolveAssemblyReference.cache
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\obj\Debug\ClassLibraryPYM.dll
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\obj\Debug\ClassLibraryPYM.pdb
+E:\HWB\Program\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.dll.config
+G:\His6C#\控件\ClassLibraryPYM\bin\Debug\HZPY.MDB
+G:\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.dll.config
+G:\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.dll
+G:\His6C#\控件\ClassLibraryPYM\bin\Debug\ClassLibraryPYM.pdb
+G:\His6C#\控件\ClassLibraryPYM\obj\Debug\ResolveAssemblyReference.cache
+G:\His6C#\控件\ClassLibraryPYM\obj\Debug\ClassLibraryPYM.dll
+G:\His6C#\控件\ClassLibraryPYM\obj\Debug\ClassLibraryPYM.pdb

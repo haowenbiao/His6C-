@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CC0E6C8E-0992-4989-9025-CAE54978FD83}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MedicineStock</RootNamespace>
+    <AssemblyName>MedicineStock</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MedicineStock.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibraryAbstractDataInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAbstractDataInformation\bin\Release\ClassLibraryAbstractDataInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryAbstractFormDataListBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\ClassLibraryCustomFormDataListBase\ClassLibraryCustomFormDataListBase\bin\Release\ClassLibraryAbstractFormDataListBase.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryAccountingPeriodInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAccountingPeriodInformation\ClassLibraryAccountingPeriodInformation\bin\Release\ClassLibraryAccountingPeriodInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryAuthoritySet, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryAuthoritySet\ClassLibraryAuthoritySet\bin\Release\ClassLibraryAuthoritySet.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryEventArgs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryEventArgs\ClassLibraryEventArgs\bin\Release\ClassLibraryEventArgs.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryGetSQLString, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryGetSQLString\ClassLibraryGetSQLString\bin\Release\ClassLibraryGetSQLString.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryLoginInformation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryLoginInformation\ClassLibraryLoginInformation\bin\Release\ClassLibraryLoginInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryMedicineKind, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryMedicineKind\ClassLibraryMedicineKind\bin\Release\ClassLibraryMedicineKind.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryMedicineProductionBatch, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryMedicineProductionBatch\ClassLibraryMedicineProductionBatch\bin\Release\ClassLibraryMedicineProductionBatch.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryMedicineStock, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryMedicineStock\ClassLibraryMedicineStock\bin\Release\ClassLibraryMedicineStock.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryPublicEnum, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryPublicEnum\bin\Release\ClassLibraryPublicEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryQuantityUnit, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryQuantityUnit\ClassLibraryQuantityUnit\bin\Release\ClassLibraryQuantityUnit.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrarySQLExcute, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibrarySQLExcute\bin\Release\ClassLibrarySQLExcute.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibraryXmlizedAttribute, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PublicDLL\ClassLibraryXmlizedAttribute\ClassLibraryXmlizedAttribute\bin\Release\ClassLibraryXmlizedAttribute.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\CustomForm\CustomForm\bin\Release\CustomForm.dll</HintPath>
+    </Reference>
+    <Reference Include="DateSelectControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\DateSelectControl\DateSelectControl\bin\Release\DateSelectControl.dll</HintPath>
+    </Reference>
+    <Reference Include="loginForm">
+      <HintPath>..\..\登录窗口\loginForm\bin\Release\loginForm.dll</HintPath>
+    </Reference>
+    <Reference Include="MedicineBatchControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\MedicineBatchControl\MedicineBatchControl\bin\Release\MedicineBatchControl.dll</HintPath>
+    </Reference>
+    <Reference Include="MedicineKindSelectControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\MedicineKindSelectControl\MedicineKindSelectControl\bin\Release\MedicineKindSelectControl.dll</HintPath>
+    </Reference>
+    <Reference Include="MedicineStoreHouseSelector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\MedicineStoreHouseSelector\MedicineStoreHouseSelector\bin\Release\MedicineStoreHouseSelector.dll</HintPath>
+    </Reference>
+    <Reference Include="SupplierSelectorlControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\SupplierSelectorlControl\SupplierSelectorlControl\bin\Release\SupplierSelectorlControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextBoxWithButton, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\TextBoxWithButton\TextBoxWithButton\bin\Release\TextBoxWithButton.dll</HintPath>
+    </Reference>
+    <Reference Include="WorkerSelectorControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\控件\WorkerSelectorControl\WorkerSelectorControl\bin\Release\WorkerSelectorControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataList\FormAdvancedSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormAdvancedSearch.Designer.cs">
+      <DependentUpon>FormAdvancedSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataList\FormDataListUseUseFpSpreadFromAbstract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormDataListUseUseFpSpreadFromAbstract.Designer.cs">
+      <DependentUpon>FormDataListUseUseFpSpreadFromAbstract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataList\FormMedicineStockRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataList\FormMedicineStockRecords.Designer.cs">
+      <DependentUpon>FormMedicineStockRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockVerify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockVerify.Designer.cs">
+      <DependentUpon>FormStockVerify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockAdd.Designer.cs">
+      <DependentUpon>FormStockAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockAddBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockAddBase.Designer.cs">
+      <DependentUpon>FormStockAddBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockDetail.Designer.cs">
+      <DependentUpon>FormStockDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockInformation.Designer.cs">
+      <DependentUpon>FormStockInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataOperate\FormStockVerifyAndWareHousing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataOperate\FormStockVerifyAndWareHousing.Designer.cs">
+      <DependentUpon>FormStockVerifyAndWareHousing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DataList\FormAdvancedSearch.resx">
+      <DependentUpon>FormAdvancedSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataList\FormDataListUseUseFpSpreadFromAbstract.resx">
+      <DependentUpon>FormDataListUseUseFpSpreadFromAbstract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataList\FormMedicineStockRecords.resx">
+      <DependentUpon>FormMedicineStockRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockAdd.resx">
+      <DependentUpon>FormStockAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockAddBase.resx">
+      <DependentUpon>FormStockAddBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockDetail.resx">
+      <DependentUpon>FormStockDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockInformation.resx">
+      <DependentUpon>FormStockInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockVerify.resx">
+      <DependentUpon>FormStockVerify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataOperate\FormStockVerifyAndWareHousing.resx">
+      <DependentUpon>FormStockVerifyAndWareHousing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\ClassLibraryMedicineStock.ClassMedicineStockFullProperties.datasource" />
+    <None Include="Properties\DataSources\ClassLibraryMedicineStock.ClassMedicineStockProperties.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

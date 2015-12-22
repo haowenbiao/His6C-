@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <LocalInformation>
+    <FarPointSpreadPageSets>
+      <WorkerInformations>
+        <Printer></Printer>
+        <Centering>None</Centering>
+        <PrintMargin>
+          <Left>10</Left>
+          <Right>10</Right>
+          <Top>10</Top>
+          <Bottom>10</Bottom>
+        </PrintMargin>
+        <Orientation>Portrait</Orientation>
+        <PaperSize>
+          <PaperName>自定义纸张</PaperName>
+          <PaperKind>Custom</PaperKind>
+          <CustomSize>
+            <Width>827</Width>
+            <Height>1169</Height>
+          </CustomSize>
+        </PaperSize>
+        <ShowBorder>true</ShowBorder>
+        <ShowColor>false</ShowColor>
+        <ShowColumnHeader>Inherit</ShowColumnHeader>
+        <ShowRowHeader>Inherit</ShowRowHeader>
+        <ShowGrid>true</ShowGrid>
+        <ShowShadows>false</ShowShadows>
+      </WorkerInformations>
+    </FarPointSpreadPageSets>
+  </LocalInformation>
+</Configuration>

@@ -1,0 +1,11 @@
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\bin\Debug\TestXmlizedAttribute.exe
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\bin\Debug\TestXmlizedAttribute.pdb
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\bin\Debug\ClassLibraryXmlizedAttribute.dll
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\bin\Debug\ClassLibraryXmlizedAttribute.pdb
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\ResolveAssemblyReference.cache
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\TestXmlizedAttribute.Form1.resources
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\TestXmlizedAttribute.Properties.Resources.resources
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\TestXmlizedAttribute.csproj.GenerateResource.Cache
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\TestXmlizedAttribute.exe
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\obj\Debug\TestXmlizedAttribute.pdb
+F:\HWB\Program\His6C#\Test\TestXmlizedAttribute\TestXmlizedAttribute\bin\Debug\TestXmlizedAttribute.exe.config
